@@ -1,0 +1,76 @@
+((("ac-source-abbrev" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("ac-source-words-in-buffer" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("ac-source-css-property" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("web-mode" .
+   [1 0 0 0 0 0 0 3])
+  ("auto-mode-alist" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("add-to-list" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  (":config" .
+   [1 0 0 0 0 0 0])
+  ("use-package" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("load-if-exists" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("load-file" .
+   [0 0 0 0 0 0 0 0 1])
+  ("file-readable-p" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("if" .
+   [2 0])
+  ("defun" .
+   [1 0 0 0 0])
+  ("add-hook" .
+   [0 0 0 0 0 1 0 0])
+  ("cout" .
+   [1 0 0 0])
+  ("printf" .
+   [0 0 0 0 1 0])
+  ("main" .
+   [2 0 0 0])
+  ("std" .
+   [1 0 0])
+  ("namespace" .
+   [0 0 1 0 0 0 0 0 0])
+  ("using" .
+   [0 0 0 0 1])
+  ("while" .
+   [0 0 0 0 1])
+  ("for" .
+   [0 0 1])
+  ("_dummy_thread" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("class" .
+   [0 0 0 0 1])
+  ("import" .
+   [0 0 0 0 0 1])
+  ("color-theme-mode" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("global-set-key" .
+   [0 0 0 0 0 0 0 0 0 1 1 0 0 0])
+  ("kbd" .
+   [2 0 0])
+  ("revert-buffer" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("include" .
+   [0 0 0 0 2 0 1])
+  ("yasnippet" .
+   [1 0 0 0 0 0 0 0 0])
+  (":ensure" .
+   [0 0 0 0 1 0 1])
+  (":config-secs" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("yas-global-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("setq" .
+   [5 0 0 0])
+  ("global-auto-revert-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("auto-revert" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("nil" .
+   [1 0 0])))

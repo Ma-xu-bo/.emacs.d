@@ -1,0 +1,16 @@
+#+STARTUP: showall hidestars
+* Links
+  -[[http://github.com/Ma-xu-bo/emacs03][Here's my Blog]]
+* lession 1
+** part 1
+  Introducing the series and setting up the package manager
+  -Show melpa
+  -set up melpa
+** Installed some packages
+  -installed use-package
+  -installed try
+  -installed which-key
+* lession 2
+  Show some org-mode
+  -review init.el
+  -set up Readme.org
