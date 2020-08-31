@@ -182,7 +182,7 @@
       :config
       (beacon-mode 1))
     ;;(setq beacon-color "#666600")
-
+;;
     (use-package hungry-delete
       :ensure t
       :config
