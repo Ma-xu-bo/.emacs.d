@@ -24,7 +24,7 @@
 #+RESULTS:
 : t
 
-* Org-bullets#+BEGIN_SRC emacs-lisp
+* Org-bullets
 #+BEGIN_SRC emacs-lisp
 (use-package org-bullets
   :ensure t
